@@ -1,3 +1,7 @@
+<!-- Banner / Header Imae -->
+<p align="center">
+  <img src="https://github.com/Shreyas5706/Shreyas5706/blob/main/GithubBanner.png" />
+</p>
 
 # ⭐ Hey , I'm Shreyas Solanki
 
